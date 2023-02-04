@@ -41,28 +41,28 @@
                             <a href="user-dir.php"><i class="icon-home"></i> <span>Dashboard</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="../assets/images/bonus.png" height="25px" width="25px" class="m-r-10"> <span>Profile</span></a>
+                            <a href="my-referrals.php" class=""><img src="../assets/images/bonus.png" height="25px" width="25px" class="m-r-10"> <span>My Referals</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="../assets/images/bonus.png" height="25px" width="25px" class="m-r-10"> <span>Referral bonus</span></a>
+                            <a href="#" class=""><img src="../assets/images/credit-card.png" height="20px" width="20px" class="m-r-10"> <span>Repurchasing Bonus</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="../assets/images/credit-card.png" height="20px" width="20px" class="m-r-10"> <span>Repurchasing Bonus</span></a>
+                            <a href="#" class=""><img src="../assets/images/upgrade.png" height="20px" width="20px" class="m-r-10"> <span>Upgrade Bonus</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="../assets/images/upgrade.png" height="20px" width="20px" class="m-r-10"> <span>Upgrade Bonus</span></a>
+                            <a href="#" class=""><img src="../assets/images/gift.png" height="20px" width="20px" class="m-r-5">  <span>Reward and Reco. Bonus</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="../assets/images/gift.png" height="20px" width="20px" class="m-r-5">  <span>Reward and Reco. Bonus</span></a>
+                            <a href="#" class=""><img src="../assets/images/bar-chart.png" height="20px" width="20px" class="m-r-10"> <span>Stockish Commission</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="../assets/images/bar-chart.png" height="20px" width="20px" class="m-r-10"> <span>Stockish Commission</span></a>
+                            <a href="#" class=""><img src="../assets/images/money-withdrawal.png" height="20px" width="20px" class="m-r-10"> <span>Withdarwal</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="../assets/images/money-withdrawal.png" height="20px" width="20px" class="m-r-10"> <span>Withdarwal</span></a>
+                            <a href="#" class=""><img src="../assets/images/user-profile.png" height="25px" width="25px" class="m-r-10"> <span>Profile</span></a>
                         </li>
                         <li>
-                            <a href="#"><span>Log Out</span></a>
+                            <a href="#" class=""><img src="../assets/images/log-out.png" height="25px" width="25px" class="m-r-10"><span>Log Out</span></a>
                         </li>
                         
                     </ul>
