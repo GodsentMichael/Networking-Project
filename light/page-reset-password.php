@@ -15,8 +15,8 @@
         <div class="vertical-align-wrap">
             <div class="vertical-align-middle auth-main">
                 <div class="auth-box">
-                    <div class="top">
-                        <img src="../assets/images/logo-white.svg" alt="Lucid">
+                <div class="top">
+                        <img src="../assets/images/Naturcrystal logo png.png" alt="Naturcrystal" style="height: 100px;">
                     </div>
                     <div class="card">
                         <div class="header">
@@ -46,7 +46,7 @@
                                 <button type="submit" class="btn btn-primary btn-lg btn-block">LOGIN</button>
                                 <div class="bottom">
                                     <span class="helper-text m-b-10"><i class="fa fa-lock"></i> <a href="page-forgot-password.php">Forgot password?</a></span>
-                                    <span>Don't have an account? <a href="page-register.html">Register</a></span>
+                                    <span>Don't have an account? <a href="page-login">Login</a></span>
                                 </div>
                             </form>
                         </div>

@@ -19,14 +19,14 @@
 <link rel="stylesheet" href="assets/css/color_skins.css">
 </head>
 
-<body class="theme-cyan">
+<body class="none">
 	<!-- WRAPPER -->
 	<div id="wrapper">
 		<div class="vertical-align-wrap">
 			<div class="vertical-align-middle auth-main">
 				<div class="auth-box">
-                    <div class="top">
-                        <img src="../assets/images/logo-white.svg" alt="Lucid">
+                <div class="top">
+                        <img src="../assets/images/Naturcrystal logo png.png" alt="Naturcrystal" style="height: 100px;">
                     </div>
 					<div class="card">
                         <div class="header">
@@ -34,13 +34,13 @@
                         </div>
                         <div class="body">
                             <p>Please enter your email address below to receive instructions for resetting password.</p>
-                            <form class="form-auth-small" action="index.html">
+                            <form class="form-auth-small" action="page-login.php">
                                 <div class="form-group">                                    
                                     <input type="email" class="form-control" id="signup-password" placeholder="Email">
                                 </div>
-                                <button type="submit" class="btn btn-primary btn-lg btn-block">RESET PASSWORD</button>
+                                <button href="page-reset-password.php" type="submit" class="btn btn-primary btn-lg btn-block">RESET PASSWORD</button>
                                 <div class="bottom">
-                                    <span class="helper-text">Know your password? <a href="page-login.php">Login</a></span>
+                                    <span class="helper-text">Know your password? <a href="page-login.php">LOGIN</a></span>
                                 </div>
                             </form>
                         </div>

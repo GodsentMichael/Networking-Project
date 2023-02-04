@@ -1,10 +1,10 @@
 <div id="left-sidebar" class="sidebar">
     <div class="sidebar-scroll">
         <div class="user-account">
-            <img src="../assets/images/user.png" class="rounded-circle user-photo" alt="User Profile Picture">
+            <img src="../assets/images/Naturcrystal logo png.png" style="height: 50px;" class="rounded-circle user-photo" alt="Company logo">
             <div class="dropdown">
-                <span>Welcome Admin,</span>
-                <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>Alizee Thomas</strong></a>
+                <span>Welcome!</span>
+                <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>User</strong></a>
                 <ul class="dropdown-menu dropdown-menu-right account">
                     <li><a href="page-profile2.html"><i class="icon-user"></i>My Profile</a></li>
                     <li><a href="javascript:void(0);"><i class="icon-settings"></i>Settings</a></li>
@@ -13,15 +13,15 @@
             <hr>
             <ul class="row list-unstyled">
                 <li class="col-4">
-                    <small>Sales</small>
+                    <small>PV</small>
                     <h6>456</h6>
                 </li>
                 <li class="col-4">
-                    <small>Order</small>
+                    <small>Stockish</small>
                     <h6>1350</h6>
                 </li>
                 <li class="col-4">
-                    <small>Revenue</small>
+                    <small>Plan</small>
                     <h6>$2.13B</h6>
                 </li>
             </ul>
@@ -41,46 +41,28 @@
                             <a href="user-dir.php"><i class="icon-home"></i> <span>Dashboard</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="https://cdn-icons-png.flaticon.com/512/9319/9319695.png" height="20px" width="20px" class="m-r-10"> <span>Referal bonus</span></a>
-                            <!-- <ul>
-                                <li><a href="patient.php">Manage Patient</a></li>
-                            </ul> -->
+                            <a href="#" class="has-arrow"><img src="../assets/images/bonus.png" height="25px" width="25px" class="m-r-10"> <span>Profile</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="https://cdn-icons-png.flaticon.com/512/3017/3017149.png" height="20px" width="20px" class="m-r-10"> <span>Repurchasing Bonus</span></a>
-                            <!-- <ul>
-                                <li><a href="employee.php">Manage Employee</a></li>
-                            </ul> -->
+                            <a href="#" class="has-arrow"><img src="../assets/images/bonus.png" height="25px" width="25px" class="m-r-10"> <span>Referral bonus</span></a>
+                        </li>
+                        <li>
+                            <a href="#" class="has-arrow"><img src="../assets/images/credit-card.png" height="20px" width="20px" class="m-r-10"> <span>Repurchasing Bonus</span></a>
                         </li>
                         <li>
                             <a href="#" class="has-arrow"><img src="../assets/images/upgrade.png" height="20px" width="20px" class="m-r-10"> <span>Upgrade Bonus</span></a>
-                            <!-- <ul>
-                                <li><a href="blog-details.html">Manage Pharmaceuticals</a></li>
-                            </ul> -->
                         </li>
                         <li>
                             <a href="#" class="has-arrow"><img src="../assets/images/gift.png" height="20px" width="20px" class="m-r-5">  <span>Reward and Reco. Bonus</span></a>
-                            <!-- <ul>
-                                <li><a href="account.php">Manage Account</a></li>
-                            </ul> -->
                         </li>
                         <li>
                             <a href="#" class="has-arrow"><img src="../assets/images/bar-chart.png" height="20px" width="20px" class="m-r-10"> <span>Stockish Commission</span></a>
-                            <!-- <ul>
-                                <li><a href="inventory.php">Manage Asssets</a></li>
-                            </ul> -->
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="../assets/images/bar-chart.png" height="20px" width="20px" class="m-r-10"> <span>Withdarwal</span></a>
-                            <!-- <ul>
-                                <li><a href="inventory.php">Manage Asssets</a></li>
-                            </ul> -->
+                            <a href="#" class="has-arrow"><img src="../assets/images/money-withdrawal.png" height="20px" width="20px" class="m-r-10"> <span>Withdarwal</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="../assets/images/bar-chart.png" height="20px" width="20px" class="m-r-10"> <span>Log Out</span></a>
-                            <!-- <ul>
-                                <li><a href="inventory.php">Manage Asssets</a></li>
-                            </ul> -->
+                            <a href="#"><span>Log Out</span></a>
                         </li>
                         
                     </ul>
@@ -242,7 +224,7 @@
                     <li><a href="javascript:void(0);">Boost Your Sales</a></li>
                     <li><a href="javascript:void(0);">Website Analytics</a></li>
                     <li class="menu-heading">ACCOUNT</li>
-                    <li><a href="javascript:void(0);">Cearet New Account</a></li>
+                    <li><a href="javascript:void(0);">Create New Account</a></li>
                     <li><a href="javascript:void(0);">Change Password?</a></li>
                     <li><a href="javascript:void(0);">Privacy &amp; Policy</a></li>
                     <li class="menu-heading">BILLING</li>

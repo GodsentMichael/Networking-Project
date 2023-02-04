@@ -15,8 +15,8 @@
         <div class="vertical-align-wrap">
             <div class="vertical-align-middle auth-main">
                 <div class="auth-box">
-                    <div class="top">
-                        <img src="../assets/images/logo-white.svg" alt="Lucid">
+                <div class="top">
+                        <img src="../assets/images/Naturcrystal logo png.png" alt="Naturcrystal" style="height: 100px;">
                     </div>
                     <div class="card">
                         <div class="header">
